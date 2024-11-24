@@ -8,6 +8,7 @@ Welcome to the **Catppuccin Palettes** repository! This repository contains vari
   - [Aseprite](Aseprite)
   - [GPL](GPL)
   - [HEX](HEX)
+  - [PAL](PAL)
   - [PNG](PNG)
   - [SVG](SVG)
 - [Contributing](#contributing)
@@ -32,6 +33,11 @@ Here’s a list of the available file formats and how to use them:
 ### HEX
 - **Description:** The `.hex` file format is a simple text-based format that contains a list of colour values in hexadecimal (HEX) notation. Each color is represented by a six-character code, typically prefixed with a hash (#), corresponding to the RGB values of the color. This format is often used to store colour palettes.
 - **Usage:** Open the `.hex` file in any text editor or design tool that supports HEX colour values. You can then copy the color codes and use them in web design, graphic software, or any application that accepts HEX colour codes.
+
+### PAL
+- **Description:** The `.pal` file format is used to store indexed colour palettes, commonly used in graphics programs like Pro Motion NG, GraphicsGale, and other pixel art or retro graphics tools. This format stores colours in a specific order and is optimized for use in pixel art and game development.
+- **Usage:** Import the `.pal` file into any application that supports the PAL format to easily access the Catppuccin colour palette for your projects.
+
 
 ### PNG
 - **Description:** A PNG image showing the Catppuccin colour palette as a visual reference. It includes all the colours arranged in an easy-to-view format.
