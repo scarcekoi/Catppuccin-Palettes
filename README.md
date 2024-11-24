@@ -1,6 +1,6 @@
 # Catppuccin Palettes
 
-Welcome to the **Catppuccin Palettes** repository! This repository contains various color palettes based on the popular Catppuccin theme, provided in multiple file formats for different use cases. Whether you're a designer, developer, or just a fan of beautiful color schemes, you'll find these files useful for your projects.
+Welcome to the **Catppuccin Palettes** repository! This repository contains various colour palettes based on the popular Catppuccin theme, provided in multiple file formats for different use cases. Whether you're a designer, developer, or just a fan of beautiful colour schemes, you'll find these files useful for your projects.
 
 ## Table of Contents
 - File Formats
@@ -8,6 +8,7 @@ Welcome to the **Catppuccin Palettes** repository! This repository contains vari
   - [Aseprite](Aseprite)
   - [GPL](GPL)
   - [PNG](PNG)
+  - [SVG](SVG)
 - Usage
 - Installation
 - [Contributing](CONTRIBUTING.md)
@@ -32,3 +33,7 @@ Here’s a list of the available file formats and how to use them:
 ### PNG
 - **Description:** A PNG image showing the Catppuccin colour palette as a visual reference. It includes all the colours arranged in an easy-to-view format.
 - **Usage:** Use the PNG file as a reference for the Catppuccin colours when creating artwork or web designs.
+
+### SVG
+- **Description:** The `.svg` file format is a scalable vector graphic format that uses XML to describe two-dimensional vector graphics. It is widely supported across web browsers and graphic design software, making it an ideal choice for high-quality, scalable designs.
+- **Usage:** Use the `.svg` file as a scalable vector graphic in web design, digital illustrations, or any application that supports vector graphics. You can easily scale the image without loss of quality, making it perfect for responsive designs.
