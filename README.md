@@ -7,6 +7,7 @@ Welcome to the **Catppuccin Palettes** repository! This repository contains vari
   - [ASE](ASE)
   - [Aseprite](Aseprite)
   - [GPL](GPL)
+  - [HEX](HEX)
   - [PNG](PNG)
   - [SVG](SVG)
 - Usage
@@ -29,6 +30,10 @@ Here’s a list of the available file formats and how to use them:
 ### GPL
 - **Description:** A `.gpl` file format compatible with [GIMP](https://www.gimp.org/) and other graphics tools that support GIMP palette files.
 - **Usage:** Simply import the GPL file into GIMP or other supported applications to use the palette in your designs.
+
+### HEX
+- **Description:** The `.hex` file format is a simple text-based format that contains a list of colour values in hexadecimal (HEX) notation. Each color is represented by a six-character code, typically prefixed with a hash (#), corresponding to the RGB values of the color. This format is often used to store colour palettes.
+- **Usage:** Open the `.hex` file in any text editor or design tool that supports HEX colour values. You can then copy the color codes and use them in web design, graphic software, or any application that accepts HEX colour codes.
 
 ### PNG
 - **Description:** A PNG image showing the Catppuccin colour palette as a visual reference. It includes all the colours arranged in an easy-to-view format.
