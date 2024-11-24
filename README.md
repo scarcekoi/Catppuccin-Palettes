@@ -4,7 +4,7 @@ Welcome to the **Catppuccin Palettes** repository! This repository contains vari
 
 ## Table of Contents
 - File Formats
-  - [ASE](Ase)
+  - [ASE](ASE)
   - [Aseprite](Aseprite)
   - [GPL](GPL)
   - [PNG](PNG)
