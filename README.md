@@ -3,7 +3,7 @@
 Welcome to the **Catppuccin Palettes** repository! This repository contains various colour palettes based on the popular Catppuccin theme, provided in multiple file formats for different use cases. Whether you're a designer, developer, or just a fan of beautiful colour schemes, you'll find these files useful for your projects.
 
 ## Table of Contents
-- File Formats
+- [File Formats](#file-formats)
   - [ASE](ASE)
   - [Aseprite](Aseprite)
   - [GPL](GPL)
