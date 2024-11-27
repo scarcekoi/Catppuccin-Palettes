@@ -1,6 +1,6 @@
 # Catppuccin Palettes
 
-Welcome to the **Catppuccin Palettes** repository! This repository contains various colour palettes based on the popular Catppuccin theme, provided in multiple file formats for different use cases. Whether you're a designer, developer, or just a fan of beautiful colour schemes, you'll find these files useful for your projects.
+Welcome to the **Catppuccin Palettes** repository! This repository contains the 4 colour palettes from the Catppuccin theme, this repository aims to provide multiple file formats for different use cases. Whether you're a designer, or developer, you'll find these files useful for your projects.
 
 ## Table of Contents
 - [File Formats](#file-formats)
