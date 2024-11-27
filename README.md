@@ -40,8 +40,8 @@ Here’s a list of the available file formats and how to use them:
 
 
 ### PNG
-- **Description:** A PNG image showing the Catppuccin colour palette as a visual reference. It includes all the colours arranged in an easy-to-view format.
-- **Usage:** Use the PNG file as a reference for the Catppuccin colours when creating artwork or web designs.
+- **Description:** A `.png` image showing the Catppuccin colour palette as a visual reference. It includes all the colours arranged in an easy-to-view format.
+- **Usage:** Use the `.png` file as a reference for the Catppuccin colours when creating artwork or web designs.
 
 ### SVG
 - **Description:** The `.svg` file format is a scalable vector graphic format that uses XML to describe two-dimensional vector graphics. It is widely supported across web browsers and graphic design software, making it an ideal choice for high-quality, scalable designs.
@@ -53,7 +53,7 @@ Here’s a list of the available file formats and how to use them:
 
 ## Guidelines
 
-The following is a set of guidelines for contributing to this repository. Use your best judgment, and feel free to propose
+The following are guidelines for contributing to this repository. Use your best judgment, and feel free to propose
 changes to this document in a pull request.
 
 - Use the `.editorconfig` file (located at the root of this project) on your editor to "maintain consistent coding
