@@ -1,4 +1,13 @@
-# Catppuccin Palettes
+<h3 align="center">
+	Catppuccin Palettes
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+</h3>
+
+<p align="center">
+	<a href="https://github.com/scarcekoi/Catppuccin-Palettes/stargazers"><img src="https://img.shields.io/github/stars/scarcekoi/Catppuccin-Palettes?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/scarcekoi/Catppuccin-Palettes/issues"><img src="https://img.shields.io/github/issues/scarcekoi/Catppuccin-Palettes?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/scarcekoi/Catppuccin-Palettes/contributors"><img src="https://img.shields.io/github/contributors/scarcekoi/Catppuccin-Palettes?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+</p>
 
 Welcome to the **Catppuccin Palettes** repository! This repository contains the 4 colour palettes from the Catppuccin theme, this repository aims to provide multiple file formats for different use cases. Whether you're a designer, or developer, you'll find these files useful for your projects.
 
