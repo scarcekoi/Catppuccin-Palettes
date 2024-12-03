@@ -56,26 +56,16 @@ Here’s a list of the available file formats and how to use them:
 - **Description:** The `.svg` file format is a scalable vector graphic format that uses XML to describe two-dimensional vector graphics. It is widely supported across web browsers and graphic design software, making it an ideal choice for high-quality, scalable designs.
 - **Usage:** Use the `.svg` file as a scalable vector graphic in web design, digital illustrations, or any application that supports vector graphics. You can easily scale the image without loss of quality, making it perfect for responsive designs.
 
-# [Contributing!](CONTRIBUTING.md)
+&nbsp;
 
-🎉 First off, thanks for taking the time to contribute! 🎉
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
 
-## Guidelines
+<p align="center">
+	Copyright &copy; 2021-present <a href="https://github.com/catppuccin" target="_blank">Catppuccin Org</a>
+</p>
 
-The following are guidelines for contributing to this repository. Use your best judgment, and feel free to propose
-changes to this document in a pull request.
-
-- Use the `.editorconfig` file (located at the root of this project) on your editor to "maintain consistent coding
-  styles." For instructions on how to use this file refer to [EditorConfig's website](https://editorconfig.org/).
-
-## Recommendations
-
-- Create a [topic branch](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows#_topic_branch) on your fork for your
-  specific PR. 
-- Consider using [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/)'s rules for creating explicit
-  and meaningful commit messages.
-- If it's your first time contributing to a project then you should look to the
-  popular [first-contributions](https://github.com/firstcontributions/first-contributions) repository on GitHub. This
-  will give you hands-on experience with the features of GitHub required to make a contribution.
-
-<p align="left">Copyright &copy; 2021-present <a href="https://github.com/catppuccin" target="_blank">Catppuccin Org</a>
+<p align="center">
+	<a href="https://github.com/scarcekoi/Catppuccin-Palettes/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
+</p>
