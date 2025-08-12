@@ -1,28 +1,28 @@
 GIMP Palette
 #
- 17  17  27	Untitled
- 24  24  37	Untitled
- 30  30  46	Untitled
- 49  50  68	Untitled
- 69  71  90	Untitled
- 88  91 112	Untitled
-108 112 134	Untitled
-127 132 156	Untitled
-147 153 178	Untitled
-166 173 200	Untitled
-186 194 222	Untitled
-205 214 244	Untitled
-180 190 254	Untitled
-137 180 250	Untitled
-116 199 236	Untitled
-137 220 235	Untitled
-148 226 213	Untitled
-166 227 161	Untitled
-249 226 175	Untitled
-250 179 135	Untitled
-235 160 172	Untitled
-243 139 168	Untitled
-203 166 247	Untitled
-245 194 231	Untitled
-242 205 205	Untitled
-245 224 220	Untitled
+ 17  17  27	Crust
+ 24  24  37	Mantle
+ 30  30  46	Base
+ 49  50  68	Surface 0
+ 69  71  90	Surface 1
+ 88  91 112	Surface 2
+108 112 134	Overlay 0
+127 132 156	Overlay 1
+147 153 178	Overlay 2
+166 173 200	Subtext 0
+186 194 222	Subtext 1
+205 214 244	Text
+180 190 254	Lavender
+137 180 250	Blue
+116 199 236	Sapphire
+137 220 235	Sky
+148 226 213	Teal
+166 227 161	Green
+249 226 175	Yellow
+250 179 135	Peach
+235 160 172	Maroon
+243 139 168	Red
+203 166 247	Mauve
+245 194 231	Pink
+242 205 205	Flamingo
+245 224 220	Rosewater
